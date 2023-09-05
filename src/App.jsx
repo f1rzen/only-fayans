@@ -1,10 +1,18 @@
 import { useState } from 'react'
 import './App.css'
 import Stats from './components/Stats'
+import Product from './components/Product'
+import productData from '../products.json';
+import Alert from './components/Alert';
+
 
 function App() {
   const [count, setCount] = useState(0)
-
+  const products = productData.products;
+  const [showAlert, setShowAlert] = useState(false);
+  const toggleAlert = () => {
+    setShowAlert(!showAlert);
+  };
   return (
     <>
       <div className="hero bg-base-200">
@@ -19,6 +27,14 @@ function App() {
 </div>
     <h2 className='text-4xl font-bold wrapper'>Müşteri Memnuniyetimiz</h2>
     <Stats/>
+    
+    <h2 className='text-4xl font-bold wrapper headercon'>Yeni Gelenler</h2>
+    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
+    {products.map((product, index) => (
+          <Product key={index} data={product} toggleAlert={toggleAlert}/>
+        ))}
+    </div>
+    {showAlert && <Alert />}
     </>
   )
 }

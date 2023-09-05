@@ -11,5 +11,9 @@
   @apply my-4 lg:my-4;
 }
 
+.headercon{
+  @apply mt-4;
+}
+
 
 
