@@ -48,7 +48,7 @@ function App() {
     </div>
 
     <h2 className='text-4xl font-bold wrapper mt-32'>Müşteri Memnuniyeti 🎉</h2>
-    <div className='grid grid-cols-1 lg:flex justify-evenly items-center mt-16 px-0 lg:px-64'>
+    <div className='grid grid-cols-1 place-items-center lg:flex lg:justify-evenly items-center mt-16 px-0 lg:px-64'>
     
     <img className='w-80' src="/src/assets/images/13.png" alt="" />
     <div>
