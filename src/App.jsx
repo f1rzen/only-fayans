@@ -34,7 +34,7 @@ function App() {
     <div>
       <h1 className="text-5xl font-bold">Evinizin Döşemelerine Zarafet Katın</h1>
       <p className="py-6">Fayansın özgün dokusu ve dayanıklılığı ile yaşam alanlarınızı yeniden keşfedin. Evinizi güzelleştirmek için mükemmel fayans seçenekleri sunuyoruz. Kalite, estetik ve dayanıklılığı bir araya getirerek, hayalinizdeki yaşam alanını oluşturmanıza yardımcı oluyoruz.</p>
-      <button className="btn btn-primary">Hemen Keşfet!</button>
+      <a href="/catalogue"><button className="btn btn-primary">Hemen Keşfet!</button></a>
     </div>
   </div>
 </div>
