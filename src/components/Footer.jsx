@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <>
-        <footer className="footer p-10 bg-base-200 text-base-content mt-32">
+        <footer className="footer p-10 bg-base-200 text-base-content mt-32 relative bottom-0">
   <nav>
     <header className="footer-title">Services</header> 
     <a className="link link-hover">Branding</a> 
