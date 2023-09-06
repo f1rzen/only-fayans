@@ -1,0 +1,160 @@
+{
+    "retromix":[
+        {
+            "title": "Kırmızı Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94842580001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Yeşil Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94842280001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Sarı Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94842380001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Mavi Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94842480001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Terra Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94993180001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Taş Gri Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94993080001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Yosun Gri Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94993280001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Kil Bej Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94992980001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        }
+    ],
+    "miniworx":[
+        {
+            "title": "RAL Koyu Gri Mat",
+            "image": "https://storage-vitra.mncdn.com/mnresize/640/-/vitra/main/Products/K94946880001VTE0.jpg",
+            "desc":"Mozaik Karo, Mat",
+            "price":"60"
+        },
+        {
+            "title": "RAL Açık Vizon Mat",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94947080001VTE0.jpg",
+            "desc":"Mozaik Karo, Mat",
+            "price":"60"
+        },
+        {
+            "title": "RAL Beyaz Mat",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94946780001VTE0.jpg",
+            "desc":"Mozaik Karo, Mat",
+            "price":"60"
+        },
+        {
+            "title": "RAL Siyah",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K50535280001VTE0.jpg",
+            "desc":"Mozaik Karo, Parlak",
+            "price":"60"
+        },
+        {
+            "title": "RAL Beyaz",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94528280001VTE0.jpg",
+            "desc":"Mozaik Karo, Parlak",
+            "price":"60"
+        },
+        {
+            "title": "RAL Koyu Gri",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K50733480001VTE0.jpg",
+            "desc":"Mozaik Karo, Parlak",
+            "price":"60"
+        },
+        {
+            "title": "RAL Koyu Gri",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94759380001VTE0.jpg",
+            "desc":"Mozaik Karo, Parlak",
+            "price":"60"
+        },
+        {
+            "title": "RAL Açık Vizon",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94527180001VTE0.jpg",
+            "desc":"Mozaik Karo, Parlak",
+            "price":"60"
+        }
+    ],
+    "procolor":[
+        {
+            "title": "RAL Açık Kum Beji",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K50528270001VTE0.jpg",
+            "desc":"Mozaik Karo, Mat",
+            "price":"60"
+        },
+        {
+            "title": "RAL Açık Kum Beji",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K50528270001VTE0.jpg",
+            "desc":"Mozaik Karo, Mat",
+            "price":"60"
+        },
+        {
+            "title": "RAL Kobalt Mavi",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K50533070001VTE0.jpg",
+            "desc":"Mozaik Karo, Mat",
+            "price":"60"
+        },
+        {
+            "title": "RAL Cam Göbeği Mavi",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K50205170001VTE0.jpg",
+            "desc":"Mozaik Karo, Mat",
+            "price":"60"
+        },
+        {
+            "title": "RAL Koyu Gri",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K50300570001VTE0.jpg",
+            "desc":"Mozaik Karo, Mat",
+            "price":"60"
+        },
+        {
+            "title": "RAL Beyaz",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K50382370001VTE0.jpg",
+            "desc":"Mozaik Karo, Parlak",
+            "price":"60"
+        },
+        {
+            "title": "RAL Turuncu",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K52997470001VTE0.jpg",
+            "desc":"Mozaik Karo, Mat",
+            "price":"60"
+        },
+        {
+            "title": "RAL Koyu Turkuaz",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K53411580001VTE0.jpg",
+            "desc":"Mozaik Karo, Mat",
+            "price":"60"
+        }
+    ]
+}
