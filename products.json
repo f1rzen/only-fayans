@@ -1,0 +1,46 @@
+{
+    "products":[
+        {
+            "title": "Kırmızı Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94842580001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Mavi Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94842480001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Yeşil Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94842280001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Sarı Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94842380001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Mavi Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94842480001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        },
+        {
+            "title": "Terra Parlak",
+            "image": "https://storage-vitra.mncdn.com/mnresize/240/-/vitra/main/Products/K94993180001VTE0.jpg",
+            "desc":"Yer Karosu, Parlak",
+            "price":"50"
+
+        }
+    ]
+}
