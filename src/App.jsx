@@ -29,7 +29,7 @@ function App() {
   return (
     <>
       <div className="hero bg-base-200 mt-32">
-  <div className="hero-content flex-col lg:flex-row ">
+  <div className="hero-content flex-col lg:flex-row">
     <img src="/src/assets/images/71JaoH-PIWL._AC_UF1000,1000_QL80_.jpg" className="max-w-xs lg:max-w-sm rounded-lg shadow-2xl" />
     <div>
       <h1 className="text-5xl font-bold">Evinizin Döşemelerine Zarafet Katın</h1>
@@ -38,14 +38,23 @@ function App() {
     </div>
   </div>
 </div>
-    <h2 className='text-4xl font-bold wrapper mt-32'>Müşteri Memnuniyetimiz</h2>
-    <Stats/>
+ 
     
-    <h2 className='text-4xl font-bold wrapper headercon mt-32'>Yeni Gelenler 👇</h2>
+    <h2 className='text-4xl font-bold wrapper headercon mt-20'>Yeni Gelenler 👇</h2>
     <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16'>
     {products.map((product, index) => (
           <Product key={index} data={product} toggleAlert={toggleAlert}/>
         ))}
+    </div>
+
+    <h2 className='text-4xl font-bold wrapper mt-32'>Müşteri Memnuniyeti 🎉</h2>
+    <div className='grid grid-cols-1 place-items-center lg:flex lg:justify-evenly items-center mt-16 px-0 lg:px-64'>
+    
+    <img className='w-80' src="/src/assets/images/13.png" alt="" />
+    <div>
+    <Stats />
+    </div>
+    
     </div>
     {showAlert && <Alert  />}
     </>
