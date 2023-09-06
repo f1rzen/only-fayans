@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
       <div className="navbar bg-base-100 px-1 lg:px-32 pb-0 lg:pb-8">
   <div className="flex-1">
-    <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+    <a href='/' className="btn btn-ghost normal-case text-xl">Only Fayans</a>
   </div>
   <div className="form-control pr-4">
       <input type="text" placeholder="Search" className="input input-bordered w-24 md:w-auto" />
