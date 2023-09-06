@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  @apply px-2 lg:px-64 pt-4 lg:pt-8;
+  @apply px-2 lg:px-64 pt-4 lg:pt-8 pb-0;
   /* @apply max-w-xs lg:max-w-screen-lg text-center mx-0 my-auto p-8 ;  */
 }
 
