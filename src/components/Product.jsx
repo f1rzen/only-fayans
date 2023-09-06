@@ -18,8 +18,15 @@ const Product = (props) => {
     <h2 className="card-title">{title}</h2>
     <p>{desc}</p>
     <p>Fiyat: {price}₺</p>
+    <div className="rating">
+  <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
+  <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" checked />
+  <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
+  <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
+  <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
+</div>
     <div className="card-actions">
-      <button className="btn btn-primary" onClick={handleAddToCart}>Sepete Ekle</button>
+      <button className="btn btn-primary mt-4" onClick={handleAddToCart}>Sepete Ekle</button>
     </div>
   </div>
 </div>

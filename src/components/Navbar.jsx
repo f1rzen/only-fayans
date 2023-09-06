@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <>
-      <div className="navbar bg-base-100 px-1 lg:px-32">
+      <div className="navbar bg-base-100 px-1 lg:px-32 pb-0 lg:pb-8">
   <div className="flex-1">
     <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
   </div>
