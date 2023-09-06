@@ -30,7 +30,7 @@ function App() {
     <>
       <div className="hero bg-base-200 mt-32">
   <div className="hero-content flex-col lg:flex-row">
-    <img src="./assets/images/71JaoH-PIWL._AC_UF1000,1000_QL80_.jpg" className="max-w-xs lg:max-w-sm rounded-lg shadow-2xl" />
+    <img src="https://m.media-amazon.com/images/I/71JaoH-PIWL._AC_UF1000,1000_QL80_.jpg" className="max-w-xs lg:max-w-sm rounded-lg shadow-2xl" />
     <div>
       <h1 className="text-5xl font-bold">Evinizin Döşemelerine Zarafet Katın</h1>
       <p className="py-6">Fayansın özgün dokusu ve dayanıklılığı ile yaşam alanlarınızı yeniden keşfedin. Evinizi güzelleştirmek için mükemmel fayans seçenekleri sunuyoruz. Kalite, estetik ve dayanıklılığı bir araya getirerek, hayalinizdeki yaşam alanını oluşturmanıza yardımcı oluyoruz.</p>
@@ -50,7 +50,7 @@ function App() {
     <h2 className='text-4xl font-bold wrapper mt-32'>Müşteri Memnuniyeti 🎉</h2>
     <div className='grid grid-cols-1 place-items-center lg:flex lg:justify-evenly items-center mt-16 px-0 lg:px-64'>
     
-    <img className='w-80' src="./assets/images/13.png" alt="müşteri fotoğrafı" />
+    <img className='w-80' src="https://filebox-1-g3981526.deta.app/embed/1b73efb8f66990cd" alt="müşteri fotoğrafı" />
     <div>
     <Stats />
     </div>

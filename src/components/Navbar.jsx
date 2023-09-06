@@ -81,7 +81,7 @@ const Navbar = () => {
           <a href="/">
             <h1 className="hidden">Only Fayans</h1>
             <img
-              src="../assets/images/oflogo.png"
+              src="https://filebox-1-g3981526.deta.app/embed/1dce8069a5a47ff1"
               className="btn btn-ghost normal-case text-xl pb-1"
             />
           </a>
@@ -187,7 +187,7 @@ const Navbar = () => {
                 <img src={user.photoURL} alt={user.displayName} />
               ) : (
                 /* Render your blank avatar */
-                <img src="../assets/images/blank-avatar.webp" alt="Blank Avatar" />
+                <img src="https://filebox-1-g3981526.deta.app/embed/638d32c442fe71c8" alt="Blank Avatar" />
               )}
             </div>
           </label>
