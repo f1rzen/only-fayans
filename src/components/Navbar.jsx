@@ -5,7 +5,8 @@ const Navbar = () => {
     <>
       <div className="navbar bg-base-100 px-1 lg:px-32 pb-0 lg:pb-8">
   <div className="flex-1">
-    <a href='/' className="btn btn-ghost normal-case text-xl">Only Fayans</a>
+    <a href="/"><h1 className='hidden'>Only Fayans</h1><img src='/src/assets/images/oflogo.png' className="btn btn-ghost normal-case text-xl pb-1" /></a>
+   
   </div>
   <a className='hover:underline' href="/catalogue">Katalog</a>
   <button className="btn btn-ghost btn-circle">
